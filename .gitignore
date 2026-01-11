@@ -47,6 +47,8 @@ share/python-wheels/
 .installed.cfg
 *.egg
 MANIFEST
+requirements_anteriores.txt
+
 
 # PyInstaller
 *.manifest
