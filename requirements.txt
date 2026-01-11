@@ -1,0 +1,12 @@
+# Core LangChain dependencies
+langchain==0.3.13
+langchain-openai==0.2.14
+langchain-community==0.3.13
+
+# Environment management
+python-dotenv==1.0.1
+
+# Web interface (for agente_react_06_streamlit.py and agente_react_07_memory.py)
+streamlit==1.42.2
+
+# Python version requirement: 3.10+
